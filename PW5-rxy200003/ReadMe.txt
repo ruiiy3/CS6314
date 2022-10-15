@@ -1,0 +1,1 @@
+My search function is not case sensitive
